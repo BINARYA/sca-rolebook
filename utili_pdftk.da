@@ -1,0 +1,7 @@
+unisce:
+pdftk *.pdf cat output manuale.pdf
+
+
+ruota 180:
+pdftk manuale.pdf cat 1-enddown output manuale_ruotato.pdf
+
