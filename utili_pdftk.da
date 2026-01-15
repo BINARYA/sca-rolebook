@@ -1,3 +1,5 @@
+promemoria per PDFTK
+
 unisce:
 pdftk *.pdf cat output manuale.pdf
 
