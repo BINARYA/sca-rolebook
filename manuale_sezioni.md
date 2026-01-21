@@ -194,3 +194,69 @@ Una volta predisposta l'arena e il set-up dei giocatori si può scegliere una mo
 pag_13
 
 MODALITÀ
+
+Le modalità di gioco sono suddivise in capitoli e influenzano le condizioni di vittoria della battaglia. Prima di iniziare una battaglia i giocatori devono scegliere tra "ADDESTRAMENTO", "IMBOSCATA" O "RISSA".
+
+CAPITOLO I - nella modalità di addestramento i giocatori si affrontano tutti contro tutti o a squadre in una battaglia a punti. 
+Mescolate il MAZZO AMBIENTE e posizionate due carte a carte nel quadrante "futuro"  della sezionE CONDIZIONI AMBIENTALI. 
+
+Durante la battaglia un campione che viene sconfitto, ovvero quando accumula un numero di punti ferita superiore ai propri punti vita, viene posizionato in posizione orizzontale e :
+- La pedina del campione sconfitto viene rimossa dall'arena. 
+- Si spostano i punti ferita ricevuti dagli avversari  nel SACCHETTO GIURIA.
+- Se non già presente, Il giocatore aggiunge un cubetto del proprio colore nell'area del GONG presente nell'arena (pag. 3).
+- Il giocatore sconfitto sceglie su quale casella di ingresso ricomparire e posiziona la propria pedina ed effettua un reset dei propri mazzi come in fase di preparazione. 
+- Il giocatore sconfitto non partecipa al successivo istante, ma al terrmine di esso riposizona la carta del proprio campione in verticale e da quel momento rientra nella battaglia.
+
+TERMINE DEL CAPITOLO : quando l'area del GONG ha un cubetto di ogni giocatore e non ci sono carte ambiente nella sezione "FUTURO" l'addestramento termina. I giocatori svuotano la scatola dell'arbitro e il giocatore che ne ha di più vine proclamato vincitore. In caso di pareggio si contano i punti ferita presenti sui campioni al termine del capitolo. In caso di ulteriore pareggio, è un pareggio.  
+
+
+pag_14
+
+CAPITOLO II - nella modalità "IMBOSCATA" vengono assegnati ai giocatori i ruoli nascosti usando le carte del MAZZO RUOLI a seconda del numero di campioni in battaglia. 
+
+- 3 giocatori : 1 Rè | 1 assassino | 1 negromante
+- 4 giocatori : 1 Rè | 1 scudiero | 1 assassino | 1 negromante
+- 5 giocatori : 1 Rè | 2 scudieri | 1 assassino | 1 negromante
+- 6 giocatori : 1 Rè | 2 scudieri | 2 assassini | 1 negromante
+- 7 giocatori : 1 Rè | 2 scudieri | 3 assassini | 1 negromante
+
+Dopo aver distribuito i ruoli il Rè scopre il proprio girando la carta ruolo a faccia in su e la battaglia comincia.                                  
+
+TERMINE DEL CAPITOLO :  il capitolo termina quando un o più giocatori raggiungono l'obiettivo del proprio ruolo.   
+- Rè deve sconfiggere tutti gli assassini e il negromante
+- Scudiero : il Rè deve vincere la battaglia
+- Assassini : devono sconfiggere il Rè
+- Negromante : deve sconfiggere tutti gli altri giocatori
+
+
+CAPITOLO III - nella "RISSA" i giocatori sconfitti, ovvero quando i punti ferita subiti risultano maggiore o uguali ai  punti vita del campione escono dal gioco. 
+
+TERMINE DEL CAPITOLO :  ne resterà solo uno. Il vincitore.
+
+
+
+NOTA: la RISSA è una modalità estremamente competitiva pensata per i tornei. Pertanto non è adatta a serate casual perchè alcuni giocatori potrebbero essere elimnati nelle prime fasi della partita e restare, di fatto,  esclusi dal gioco.
+
+
+
+pag_15
+
+SVOLGIMENTO DEL GIOCO
+
+Nel flusso di gioco gli istanti si succedono ciclicamente percorrendo tutte le fasi.
+
+Scelta -  tutti i giocatori scelgono una carta direzione e la pongono nell'area di gioco.
+- Tutti i giocatori scelgono e una carta capacità e la pongono coperta pagando il costo dell'effetto scelto.  
+- Oppure, dichiarano che vogliono attivare un permanente in gioco e posizionano il costo di punti organizzazione sopra di essa.
+- Oppure, dichiarano di voler attivare un effetto ripetibile della carta che si trova visibile in cima alla pila degli scarti e posizionano i cubetti organizzazione per pagarne il costo.
+Il costo si paga posizionando i propri punti organizzazione sopra la carta scelta (cubetti bianchi)
+
+Rivelazione -  tutti i giocatori rivelano le proprie scelte. Le scelte giocate coperte pagano il massimo possibile con i punti organizzazione assegnati in fase di scelta.  Questo significa che se ho dichiarato 3 punti organizzaizone, ed esiste un effetto da 3 punti non potro scegliere un'altro effetto a costo inferiore e tutti i punti organizzazione dichiarati vengono consumati (..il bluff costa). 
+
+Alcune carte possono avere effetti nella fase di rivelazione permettendo al giocatore di sapere cosa hanno giocato gli avversari.
+
+Veloce -  si applicano gli effetti  veloci. Sconfiggere un campione o bloccarlo in fase veloce impedisce che vengano applicati gli effetti delle altre fasi. 
+
+Movimento -  si applicano gli effetti di movimento. Se due campioni cercano di spostarsi entrambi nella stessa cella avrà priorità quello con forza maggiore, in caso di parità quello con l'agilità maggiore. In caso di ulteriore parità entrambi i campioni si fermeranno nella cella precedente.
+
+Lenta -  si applicano gli effetti lenti. Dopo aver applicato gli effetti lenti si procede nel verificare se l'area del GONG nell'arena presenta un cubetto per ogni giocatore in battalia. In caso affermativo si sposta una carta abiente dallo stato "FUTURO" a "PASSATO" e si applicano gli effetti globali.
